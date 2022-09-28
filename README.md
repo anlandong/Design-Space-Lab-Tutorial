@@ -1,10 +1,10 @@
 # Design-Space-Lab-Tutorial
 --- 
-Author: Anlan Dong
+Author: Tim Tham
 
 Participants: 
 
-- A.D
+- T.T
 
 This is the folder for Design Space Lab's Python Tutorial files. 
 
