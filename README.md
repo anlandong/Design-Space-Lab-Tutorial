@@ -4,6 +4,6 @@ Author: Anlan Dong
 
 Participants: 
 
-- Anlan Dong, System Engineering, PhD
+- Anlan Dong, Sys Engineering, PhD
 
 This is the folder for Design Space Lab's Python Tutorial files. 
