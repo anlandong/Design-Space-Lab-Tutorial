@@ -4,12 +4,8 @@ Author: Anlan Dong
 
 Participants: 
 
-- Hossein Basereh Taramsari; Engineering Management
 
-- Anlan Dong, System Engineering, PhD
+- Anlan Dong; System Engineering
 
-- Anlan DonD
-
->>>>>>> 39c78eea03db2eb028f6fce37bd4b0dd96d6765d
 This is the folder for Design Space Lab's Python Tutorial files. 
 
